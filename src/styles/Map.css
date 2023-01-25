@@ -1,16 +1,16 @@
-.map-container{
-    height : 75vh;
+.map-container {
+  height: 75vh;
 }
-.mapboxgl-popup-close-button{
-    padding:1px;
-    
-    background:none;
-    border:none;
+.mapboxgl-popup-close-button {
+  padding: 1px;
+
+  background: none;
+  border: none;
 }
-.mapboxgl-popup{
-    max-width:100vw!important;
-    max-height:50vh!important;
+.mapboxgl-popup {
+  max-width: 100vw !important;
+  max-height: 50vh !important;
 }
-#refreshMap{
-    margin:auto;
+#refreshMap {
+  margin: auto;
 }

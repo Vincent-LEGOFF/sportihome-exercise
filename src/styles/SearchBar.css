@@ -1,14 +1,15 @@
-.maxHSearchbar>div{
-    display:none;
-    position: absolute;
-    top:30px;
-    left:0px;
-    max-height:150px;
-    z-index:1000;
-    width:100%;
-    text-align:left;
-    padding:10px;
+.maxHSearchbar > div {
+  display: none;
+  position: absolute;
+  top: 30px;
+  left: 0px;
+  max-height: 150px;
+  z-index: 1000;
+  width: 100%;
+  text-align: left;
+  padding: 10px;
 }
-.maxHSearchbar:hover > div, .maxHSearchbar > div:hover{
-    display:block;
+.maxHSearchbar:hover > div,
+.maxHSearchbar > div:hover {
+  display: block;
 }
